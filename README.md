@@ -4,8 +4,9 @@ Mi nombre es Aitor Medrano y me puedes encontrar en twitter como [@aitormedrano]
 
 ### Curso 21/22
 
-* Apuntes de Big Data: <https://aitor-medrano.github.io/bigdata2122/>
-* Apuntes de Desarrollo Web en Entorno Servidor (DWES):  <https://aitor-medrano.github.io/dwes2122/>
+
+* Apuntes de [Big Data](https://aitor-medrano.github.io/bigdata2122/) para el curso de Especialización en Inteligencia Articial y Big Data.
+* Apuntes de [Desarrollo Web en Entorno Servidor (DWES)](https://aitor-medrano.github.io/dwes2122/) del segundo curso del CFGS de Desarrollo de Aplicaciones Web.
 
 ### Cursos anteriores
  
