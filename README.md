@@ -4,6 +4,10 @@ Mi nombre es Aitor Medrano y me puedes encontrar en twitter como [@aitormedrano]
 
 ## Materiales y recursos
 
+### Curso 22/23
+
+* Apuntes de [Big Data](https://aitor-medrano.github.io/iabd2223/) para el curso de *Especialización en Inteligencia Artificial y Big Data*.
+
 ### Curso 21/22
 
 * Apuntes de [Big Data](https://aitor-medrano.github.io/bigdata2122/) para el curso de *Especialización en Inteligencia Artificial y Big Data*.
