@@ -10,6 +10,10 @@ También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.c
 
 ## Materiales y recursos
 
+### Curso 23/24
+
+* Apuntes de [Big Data (y algo de IA)](https://aitor-medrano.github.io/iabd/) para el curso de *Especialización en Inteligencia Artificial y Big Data* (3ª edición).
+
 ### Curso 22/23
 
 * Apuntes de [Big Data](https://aitor-medrano.github.io/iabd2223/) para el curso de *Especialización en Inteligencia Artificial y Big Data* (2ª edición).
