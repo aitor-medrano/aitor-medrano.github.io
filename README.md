@@ -27,6 +27,6 @@ También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.c
  
 Apuntes creados para el curso de *Experto Universitario en Desarrollo de Aplicaciones Web y JavaScript*, y *Especialista Universitario en Aplicaciones y Servicios Web con Java Enterprise* de la Universidad de Alicante. Tenéis más materiales en <http://expertojava.ua.es/experto/publico/>
 
-* Apuntes de [JavaScript](http://expertojava.ua.es/experto/publico/2015-16/js-expertojava.html).
-* Apuntes de [NoSQL y MongoDB](http://expertojava.ua.es/experto/publico/2015-16/nosql-expertojava.html)
+* Apuntes de [JavaScript](https://expertojavaua.github.io/expertojava.ua.es/experto/publico/2015-16/js-expertojava.html).
+* Apuntes de [NoSQL y MongoDB](https://expertojavaua.github.io/expertojava.ua.es/experto/publico/2015-16/nosql-expertojava.html)
 * Apuntes de [Java Message Service (JMS)](http://www.jtech.ua.es/j2ee/2011-2012/restringido/mens/index.html)
