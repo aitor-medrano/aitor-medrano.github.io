@@ -1,14 +1,19 @@
 # Aitor Medrano
 
-Mi nombre es Aitor Medrano y soy un docente de secundaria que vive en Elche y lleva unos cuantos años sumergido en el mundo de la IA y el Big Data.
+Mi nombre es [Aitor Medrano](mailto:a.medrano@edu.gva.es) y soy un docente de secundaria que vive en Elche y lleva unos cuantos años sumergido en el mundo de la IA y el Big Data.
 
-Tras acabar la carrera de Ingeniería Informática en la Universidad de Alicante, di mis primeros pasos en Madrid como desarrollador de aplicaciones mediante Java Enterprise. Un día la docencia se cruzó en mi camino y tras unos cuantos cursos ejerciendo de Jefe de Estudios en el [IES La Nía en Aspe](https://portal.edu.gva.es/ieslania/) , recabé en el [IES Severo Ochoa de Elche](https://portal.edu.gva.es/03013224/), centro de excelencia por Informática y Comunicaciones.
+Tras acabar la carrera de Ingeniería Informática en la Universidad de Alicante en el año 2001, di mis primeros pasos en Madrid como desarrollador de aplicaciones mediante *Java Enterprise*. Un día la docencia se cruzó en mi camino y volví a la *terreta*, compaginando la educación secundaria en varios centros de la provincia de Alicante con el extinto [Curso de Especialista/Experto en Java Enterprise](https://web.ua.es/es/expertojava/) en la Universidad de Alicante. Tras unos cuantos cursos ejerciendo de Jefe de Estudios en el [IES La Nía en Aspe](https://portal.edu.gva.es/ieslania/), recabé en el [IES Severo Ochoa de Elche](https://portal.edu.gva.es/03013224/), centro de excelencia por Informática y Comunicaciones.
 
 Actualmente soy el coordinador del *Curso de Especialización en Inteligencia Artificial y Big Data*, liderando el [Proyecto de Innovación Aplicada en FP Lara](https://piafplara.es/).
 
-También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.com/aitormedrano), donde cuento un poco lo que hago en clase y comparto mis aficiones.
+También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.com/aitormedrano), donde cuento un poco lo que hago en clase y comparto mis aficiones y de forma mensual actualizo mi [blog](https://aitor-medrano.github.io/iabd/blog/) donde cuento a qué dedico mi tiempo.
 
 ## Materiales y recursos
+
+### Curso 24/25
+
+* Apuntes de [Big Data (y algo de IA)](https://aitor-medrano.github.io/iabd/) para el curso de *Especialización en Inteligencia Artificial y Big Data* (4ª edición).
+* Apuntes de [Bases de Datos](https://aitor-medrano.github.io/bd/) de 1º del CFGS de *Desarrollo de Aplicaciones Multiplataforma* (DAM).
 
 ### Curso 23/24
 
@@ -25,7 +30,7 @@ También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.c
 
 ### Cursos anteriores
  
-Apuntes creados para el curso de *Experto Universitario en Desarrollo de Aplicaciones Web y JavaScript*, y *Especialista Universitario en Aplicaciones y Servicios Web con Java Enterprise* de la Universidad de Alicante. Tenéis más materiales en <http://expertojava.ua.es/experto/publico/>
+Apuntes creados para el curso de *Experto Universitario en Desarrollo de Aplicaciones Web y JavaScript*, y *Especialista Universitario en Aplicaciones y Servicios Web con Java Enterprise* de la Universidad de Alicante. Tenéis más materiales en <https://expertojavaua.github.io/>
 
 * Apuntes de [JavaScript](https://expertojavaua.github.io/expertojava.ua.es/experto/publico/2015-16/js-expertojava.html).
 * Apuntes de [NoSQL y MongoDB](https://expertojavaua.github.io/expertojava.ua.es/experto/publico/2015-16/nosql-expertojava.html)
