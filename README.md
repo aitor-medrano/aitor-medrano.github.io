@@ -6,7 +6,7 @@ Tras acabar la carrera de Ingeniería Informática en la Universidad de Alicante
 
 Actualmente soy el coordinador del *Curso de Especialización en Inteligencia Artificial y Big Data*, liderando el [Proyecto de Innovación Aplicada en FP Lara](https://piafplara.es/).
 
-También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.com/aitormedrano), donde cuento un poco lo que hago en clase y comparto mis aficiones y de forma mensual actualizo mi [blog](https://aitor-medrano.github.io/iabd/blog/) donde cuento a qué dedico mi tiempo.
+También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.com/aitormedrano), donde cuento un poco lo que hago en clase y comparto mis aficiones y de forma mensual actualizo mi [blog](https://aitor-medrano.github.io/blog/) donde cuento a qué dedico mi tiempo.
 
 ## Materiales y recursos
 
