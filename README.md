@@ -10,6 +10,15 @@ También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.c
 
 ## Materiales y recursos
 
+### Curso 25/26
+
+* Apuntes de [Big Data (y algo de IA)](https://aitor-medrano.github.io/iabd/) para el curso de *Especialización en Inteligencia Artificial y Big Data* (5ª edición).
+    * Series Temporales
+    * InfluxDB
+* Apuntes de [Bases de Datos](https://aitor-medrano.github.io/bd/) de 1º del CFGS de *Desarrollo de Aplicaciones Multiplataforma* (DAM).
+    * EER: supuestos solucionados
+    * DDL - DML: sintaxis PostgreSQL, columnas generadas MariaDB, tratamiento de campos de tipo fecha
+
 ### Curso 24/25
 
 * Apuntes de [Big Data (y algo de IA)](https://aitor-medrano.github.io/iabd/) para el curso de *Especialización en Inteligencia Artificial y Big Data* (4ª edición).
