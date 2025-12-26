@@ -1,3 +1,34 @@
-title: aitor-medrano.github.io
-description: La huella de un docente de informática
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+title: "aitor-medrano.github.io"
+description: "La huella de un docente de informática"
+url: "https://aitor-medrano.github.io/"
+locale: "es-ES"
+logo: "logo.png"
+
+author:
+  name     : "Aitor Medrano"
+  bio      : "asdf"
+  location : "Elche, España"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Email"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
