@@ -1,4 +1,7 @@
-# Aitor Medrano
+---
+toc: true
+classes: wide
+---
 
 Mi nombre es [Aitor Medrano](mailto:a.medrano@edu.gva.es) y soy un docente de secundaria que vive en Elche y lleva unos cuantos años sumergido en el mundo de la IA y el Big Data.
 
