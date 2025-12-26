@@ -1,8 +1,3 @@
----
-toc: true
-classes: wide
----
-
 Mi nombre es [Aitor Medrano](mailto:a.medrano@edu.gva.es) y soy un docente de secundaria que vive en Elche y lleva unos cuantos años sumergido en el mundo de la IA y el Big Data.
 
 Tras acabar la carrera de Ingeniería Informática en la Universidad de Alicante en el año 2001, di mis primeros pasos en Madrid como desarrollador de aplicaciones mediante *Java Enterprise*. Un día la docencia se cruzó en mi camino y volví a la *terreta*, compaginando la educación secundaria en varios centros de la provincia de Alicante con el extinto [Curso de Especialista/Experto en Java Enterprise](https://web.ua.es/es/expertojava/) en la Universidad de Alicante. Tras unos cuantos cursos ejerciendo de Jefe de Estudios en el [IES La Nía en Aspe](https://portal.edu.gva.es/ieslania/), recabé en el [IES Severo Ochoa de Elche](https://portal.edu.gva.es/03013224/), centro de excelencia por Informática y Comunicaciones.
@@ -15,12 +10,12 @@ También me puedes encontrar en Twitter/X como [@aitormedrano](https://twitter.c
 
 ### Curso 25/26
 
-* Apuntes de [Big Data (y algo de IA)](https://aitor-medrano.github.io/iabd/) para el curso de *Especialización en Inteligencia Artificial y Big Data* (5ª edición).
+* Apuntes de [Big Data (y algo de IA)](https://aitor-medrano.github.io/iabd/) para el curso de *Especialización en Inteligencia Artificial y Big Data* (5ª edición). Este curso he añadido materiales relativos a:
     * Series Temporales
     * InfluxDB
-* Apuntes de [Bases de Datos](https://aitor-medrano.github.io/bd/) de 1º del CFGS de *Desarrollo de Aplicaciones Multiplataforma* (DAM).
+* Apuntes de [Bases de Datos](https://aitor-medrano.github.io/bd/) de 1º del CFGS de *Desarrollo de Aplicaciones Multiplataforma* (DAM). Este curso he añadido materiales relativos a:
     * EER: supuestos solucionados
-    * DDL - DML: sintaxis PostgreSQL, columnas generadas MariaDB, tratamiento de campos de tipo fecha
+    * DDL - DML: sintaxis PostgreSQL, columnas generadas en MariaDB, tratamiento de campos de tipo fecha
 
 ### Curso 24/25
 
