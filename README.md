@@ -1,3 +1,5 @@
+# Aitor Medrano
+
 Mi nombre es [Aitor Medrano](mailto:a.medrano@edu.gva.es) y soy un docente de secundaria que vive en Elche y lleva unos cuantos años sumergido en el mundo de la IA y el Big Data.
 
 Tras acabar la carrera de Ingeniería Informática en la Universidad de Alicante en el año 2001, di mis primeros pasos en Madrid como desarrollador de aplicaciones mediante *Java Enterprise*. Un día la docencia se cruzó en mi camino y volví a la *terreta*, compaginando la educación secundaria en varios centros de la provincia de Alicante con el extinto [Curso de Especialista/Experto en Java Enterprise](https://web.ua.es/es/expertojava/) en la Universidad de Alicante. Tras unos cuantos cursos ejerciendo de Jefe de Estudios en el [IES La Nía en Aspe](https://portal.edu.gva.es/ieslania/), recabé en el [IES Severo Ochoa de Elche](https://portal.edu.gva.es/03013224/), centro de excelencia por Informática y Comunicaciones.
